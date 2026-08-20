@@ -1,6 +1,5 @@
 import React, { useRef } from "react";
-import profile from "../src/assets/my photo.jpg"
-
+import profile from "./assets/profile.jpg";
 
 function App() {
   // ---------------- SECTION REFERENCES ----------------
