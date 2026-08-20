@@ -364,14 +364,13 @@ function App() {
   const Skills = () => {
 
     const skills = [
-      "MS Office",
-      "Tally ERP 9",
-      
       "HTML",
       "CSS",
       "Bootstrap",
       "JavaScript",
       "React JSX",
+      "MS Office",
+      "Tally ERP 9",
     ];
 
     return (
